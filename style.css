@@ -88,3 +88,39 @@ main {
 .education {
     width: auto;
 }
+
+.main-titles {
+    font-family: CCGlitterGirl Regular;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.project-name, h3, .experiences {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.projects-container {
+    border-top: 4px black solid;
+}
+
+h3 {
+    font-family: CCGlitterGirl Regular;
+}
+
+.profile-links {
+    color: blue;
+    margin-left: 15px;
+    font-size: small;
+}
+
+.experience-1 {
+    margin-bottom: 20px;
+}
+
+.experience-2 {
+    margin-top: 25px;
+    border-top: 4px black solid;
+    height: auto;
+}

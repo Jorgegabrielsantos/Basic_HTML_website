@@ -95,7 +95,7 @@ main {
     margin-left: 15px;
 }
 
-.project-name, h3, .experiences {
+.project-name, h3, .experiences, .education-details, .courses {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     margin-left: 15px;

@@ -124,3 +124,26 @@ h3 {
     border-top: 4px black solid;
     height: auto;
 }
+
+footer {
+    margin: 0;
+    border: 3px black solid;
+    height: 300px;
+}
+
+#testimonials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: auto;
+    height: 300px;
+    width: auto;
+}
+
+.testimonials-container {
+    height: 170px;
+    width: 300px;
+    border-radius: 7%;
+    border: 4px black solid;
+}

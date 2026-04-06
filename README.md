@@ -1,6 +1,7 @@
 # Basic HTML Website 🌐
 
-Project #60: a **basic website** built with **HTML** and **CSS**.  
+Project #60: a **basic website** built with **HTML** and **CSS**.
+A project by (https://roadmap.sh/projects/basic-html-website).
 The goal is to practice structuring a multi-section webpage using semantic HTML and applying basic styling.
 
 ---

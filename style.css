@@ -128,14 +128,21 @@ h3 {
 footer {
     margin: 0;
     border: 3px black solid;
-    height: 300px;
+    height: 550px;
+}
+
+.footer-title {
+    font-family: CCGlitterGirl Regular;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 25px;
 }
 
 #testimonials {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 28px;
     margin: auto;
     height: 300px;
     width: auto;
@@ -143,7 +150,27 @@ footer {
 
 .testimonials-container {
     height: 170px;
-    width: 300px;
-    border-radius: 7%;
-    border: 4px black solid;
+    width: 250px;
+    padding: 10px;
+    border-radius: 20%;
+    border: 3.5px black solid;
+}
+
+.person-testimonials {
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+.person {
+    color: #ccc;
+    font-family: CCGlitterGirl Regular;
+}
+
+#copyright {
+    font-family: CCGlitterGirl Regular;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
 }
